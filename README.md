@@ -6,7 +6,7 @@
 <p>👩🏿‍💻 I hold a Bachelor's degree in Business Informatics from the University of Trier.</p>
 
 
-## 🛠 Tech Stack
+## 🖥️ Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +31,21 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-### 🖥️ IDE & Editors
+### IDE & Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🛠 Projects
+
+### [Project Name](Link to Project)
+- **Description:** A brief summary of what the project is about.
+- **Technologies:** List of technologies used (e.g., React, Node.js, MongoDB).
+- **Features:** Key features or functionalities.
+
+### [Another Project Name](Link to Project)
+- **Description:** A brief summary of what the project is about.
+- **Technologies:** List of technologies used (e.g., Python, Django, PostgreSQL).
+- **Features:** Key features or functionalities.
 
 
 ## 📊 GitHub Stats
