@@ -1,4 +1,4 @@
-## Hello World👋
+## 👋 Hello World
 
 + 🙋🏿‍♀️I'm Moge.
 + 😄 My pronouns are she/her.
