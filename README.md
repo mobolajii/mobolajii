@@ -49,7 +49,7 @@
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
 ## 🔝 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobolajii&layout=compact&card_width=450&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d)
