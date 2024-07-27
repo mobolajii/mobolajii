@@ -35,6 +35,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
 ## 🛠 Projects
 
 ### [Project Name](Link to Project)
@@ -47,7 +48,7 @@
 - **Technologies:** List of technologies used (e.g., Python, Django, PostgreSQL).
 - **Features:** Key features or functionalities.
 
-
+-->
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
