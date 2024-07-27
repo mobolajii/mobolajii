@@ -1,9 +1,10 @@
 ## 👋 Hello World
 
-+ 🙋🏿‍♀️I'm Moge.
-+ 😄 My pronouns are she/her.
-+ 👩🏿‍🎓I am a Software Enginner sharing her journey and learnings in tech.
-+ 👩🏿‍💻I hold a Bachelor's degree in Business Informatics from the University of Trier
+<p>🙋🏿‍♀️ I'm Moge.</p>
+<p>😄 My pronouns are she/her.</p>
+<p>👩🏿‍🎓 I am a Software Engineer sharing her journey and learnings in tech.</p>
+<p>👩🏿‍💻 I hold a Bachelor's degree in Business Informatics from the University of Trier.</p>
+
 
 ## 🛠 Tech Stack
 
@@ -29,6 +30,10 @@
 ### Version Control & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+### 🖥️ IDE & Editors
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## 📊 GitHub Stats
