@@ -78,3 +78,4 @@ I write on Medium about software engineering and what I learn along the way: [me
 ## Connect with me
 #### Feel free to connect with me on LinkedIn or Medium!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogemola-okulaja-93b172294/?trk=opento_sprofile_details)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
