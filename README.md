@@ -3,7 +3,7 @@
 <p>🙋🏿‍♀️ I'm Moge.</p>
 <p>😄 My pronouns are she/her.</p>
 <p>👩🏿‍🎓 I am a Software Engineer sharing her journey and learnings in tech.</p>
-<p>👩🏿‍💻 I hold a Bachelor's degree in Business Informatics from the University of Trier.</p>
+<p>👩🏿‍💻 I hold a Bachelor's degree in Information Systems from the University of Trier. and a Master's degree in Computer Science from the Humboldt University Berlin</p>
 
 
 ## 🖥️ Tech Stack
