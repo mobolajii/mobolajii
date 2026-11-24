@@ -31,7 +31,7 @@
 ## ✍🏿 Writing
 
 
-I write on Medium about software engineering and what I learn along the way: [medium.com/@amoge](https://medium.com/@amoge)
+Writing about software engineering, the thinking behind the code, and the systems that make it all work (or occasionally don't): [medium.com/@amoge](https://medium.com/@amoge)
 
 
 ## 🖥️ Tech Stack
