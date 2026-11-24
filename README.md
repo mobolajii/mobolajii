@@ -13,7 +13,7 @@
 
 
 
-<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/2-coding-woman-v11.svg' width='400' alt='Animated woman typing at a keyboard, then waving and saying hi' /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-2-coding-woman-v11.svg' width='400' alt='Animated woman typing at a keyboard, then waving and saying hi' /></p>
 
 
 
