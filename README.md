@@ -55,40 +55,6 @@ I write on Medium about software engineering and what I learn along the way: [me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
 
 <!--
-## 🛠 Projects
-
-### [Project Name](Link to Project)
-- **Description:** A brief summary of what the project is about.
-- **Technologies:** List of technologies used (e.g., React, Node.js, MongoDB).
-- **Features:** Key features or functionalities.
-
-### [Another Project Name](Link to Project)
-- **Description:** A brief summary of what the project is about.
-- **Technologies:** List of technologies used (e.g., Python, Django, PostgreSQL).
-- **Features:** Key features or functionalities.
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
-
--->
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&theme=radical)
-
-## 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobolajii&layout=compact&card_width=450&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d)
-
-## Connect with me
-#### Feel free to connect with me on LinkedIn or Medium!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogemola-okulaja-93b172294/?trk=opento_sprofile_details)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
-
-
-
-
-
-
-
-
-
-<!--
 **mobolajii/mobolajii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
