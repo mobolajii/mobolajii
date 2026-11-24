@@ -4,7 +4,7 @@
 
 <h1 align='center'>Hey, I'm Moge</h1>
 
-<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-coding-woman.svg' width='220' alt='Animated woman coding on her laptop, looking up to say hi' /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-coding-woman.svg?v=2' width='320' alt='Animated woman coding on her laptop, looking up to say hi' /></p>
 
 <p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
 
@@ -25,7 +25,7 @@
 
 
 - M.Sc. Computer Science, Humboldt University Berlin
-- B.Sc. Information Systems, University of Trier
+- B.Sc. Computer Science and Business (Information Systems), University of Trier
 
 
 ## ✍🏿 Writing
