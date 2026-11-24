@@ -45,8 +45,6 @@
 
 
 
-**Tech I work with:** Java · Python · TypeScript · GraphQL · AWS · GCP
-
 
 
 
