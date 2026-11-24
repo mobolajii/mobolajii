@@ -13,7 +13,7 @@
 
 
 
-<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/2-coding-woman-v7.svg?v=8' width='400' alt='Animated woman coding behind her MacBook, then leaning her head out to say hi' /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-2-coding-woman-v8.svg' width='400' alt='Animated woman typing at a keyboard, then waving and saying hi' /></p>
 
 
 
@@ -145,4 +145,4 @@ Writing about software engineering, the thinking behind the code, and the system
 ## Connect with me
 #### Feel free to connect with me on LinkedIn or Medium!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogemola-okulaja-93b172294/?trk=opento_sprofile_details)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)<p align='center'><img src='https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:00897B&height=140&section=header&text=Moge&fontSize=48&fontColor=ffffff&animation=fadeIn
