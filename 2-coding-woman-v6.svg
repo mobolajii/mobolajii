@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300"><style>
+.mv{animation:mv 6s infinite ease-in-out}
+@keyframes mv{0%,42%{transform:translate(-30px,22px)}52%,90%{transform:translate(100px,0)}100%{transform:translate(-30px,22px)}}
+.head{transform-origin:200px 190px;animation:head 6s infinite ease-in-out}
+@keyframes head{0%,42%{transform:rotate(0)}52%{transform:rotate(-4deg)}58%,88%{transform:rotate(-6deg)}100%{transform:rotate(0)}}
+.bob{animation:bob .45s infinite alternate ease-in-out}
+@keyframes bob{from{transform:translateY(0)}to{transform:translateY(2px)}}
+.look{animation:look 6s infinite steps(1)}
+@keyframes look{0%,50%{transform:translate(0,5px)}51%,92%{transform:translate(0,0)}93%,100%{transform:translate(0,5px)}}
+.wave{opacity:0;transform-origin:292px 262px;animation:wv 6s infinite}
+@keyframes wv{0%,54%{opacity:0;transform:rotate(0)}56%{opacity:1;transform:rotate(0)}62%{transform:rotate(-18deg)}68%{transform:rotate(12deg)}74%{transform:rotate(-18deg)}80%{transform:rotate(12deg)}86%{opacity:1;transform:rotate(0)}88%,100%{opacity:0}}
+.hi{opacity:0;animation:hi 6s infinite}
+@keyframes hi{0%,54%{opacity:0}58%,86%{opacity:1}90%,100%{opacity:0}}
+.smile{opacity:0;animation:hi 6s infinite}
+.sym{animation:fl 3s infinite ease-in-out}
+@keyframes fl{0%{opacity:0;transform:translateY(10px)}50%{opacity:1}100%{opacity:0;transform:translateY(-14px)}}
+</style><g font-family="monospace" font-size="10.5" font-weight="bold"><text class="sym" style="animation-delay:0s" x="120" y="24" fill="#c792ea">// it works, why?</text><text class="sym" style="animation-delay:1.2s" x="150" y="52" fill="#82aaff">console.log('here')</text><text class="sym" style="animation-delay:0.6s" x="6" y="140" fill="#ffcb6b">// TODO: sleep</text><text class="sym" style="animation-delay:1.8s" x="2" y="100" fill="#c3e88d">while(!coffee)</text><text class="sym" style="animation-delay:0.3s" x="6" y="68" fill="#f78c6c">git blame me</text><text class="sym" style="animation-delay:2.2s" x="6" y="32" fill="#89ddff">ctrl+z ctrl+z</text><text class="sym" style="animation-delay:0.9s" x="388" y="130" fill="#f07178">rm -rf bugs/</text><text class="sym" style="animation-delay:1.5s" x="388" y="170" fill="#c3e88d">// fix later</text><text class="sym" style="animation-delay:2.4s" x="385" y="205" fill="#82aaff">bugs=0 // lol</text><text class="sym" style="animation-delay:2.0s" x="388" y="100" fill="#ffcb6b">git push -f</text><text class="sym" style="animation-delay:0.4s" x="300" y="14" fill="#c792ea">// hi mom</text></g><g class="mv"><g class="bob"><!-- body -->
+<path d="M95 300 Q100 232 150 222 L250 222 Q300 232 305 300Z" fill="#141414"/>
+<path d="M110 300 Q115 238 158 226 L200 262 L242 226 Q285 238 290 300Z" fill="#c8ab8b"/>
+<path d="M178 222 L200 262 L222 222Z" fill="#141414"/>
+<path d="M176 220 L192 236 L200 224Z M224 220 L208 236 L200 224Z" fill="#2a2a2a"/>
+<!-- neck -->
+<rect x="184" y="196" width="32" height="30" fill="#7b4a30"/>
+<!-- head group -->
+<g transform="translate(0,16)"><g class="head">
+<!-- hair back -->
+<g fill="#0c0c0e">
+<circle cx="200" cy="130" r="62"/><circle cx="152" cy="150" r="30"/><circle cx="248" cy="150" r="30"/><circle cx="140" cy="118" r="26"/><circle cx="260" cy="118" r="26"/><circle cx="168" cy="82" r="28"/><circle cx="232" cy="82" r="28"/><circle cx="200" cy="72" r="30"/><circle cx="132" cy="170" r="22"/><circle cx="268" cy="170" r="22"/>
+</g>
+<ellipse cx="200" cy="148" rx="42" ry="50" fill="#8a5738"/>
+<path d="M158 118 Q200 84 242 118 Q232 96 200 92 Q168 96 158 118Z" fill="#0c0c0e"/>
+<!-- ears hidden by hair; brows -->
+<path d="M175 126 Q184 121 193 126M207 126 Q216 121 225 126" stroke="#0c0c0e" stroke-width="3" fill="none" stroke-linecap="round"/>
+<!-- eyes -->
+<g><ellipse cx="184" cy="141" rx="8" ry="6" fill="#fff"/><ellipse cx="216" cy="141" rx="8" ry="6" fill="#fff"/>
+<g class="look"><circle cx="184" cy="141" r="4" fill="#1a0f0a"/><circle cx="216" cy="141" r="4" fill="#1a0f0a"/></g>
+<path d="M176 140 Q184 134 192 140M208 140 Q216 134 224 140" stroke="#0c0c0e" stroke-width="2" fill="none"/></g>
+<g fill="#bfe3ff" fill-opacity="0.18" stroke="#e8a090" stroke-width="3"><rect x="167" y="130" width="34" height="23" rx="9"/><rect x="199" y="130" width="34" height="23" rx="9"/></g><path d="M201 138 Q200 135 199 138M167 136 L158 132M233 136 L242 132" stroke="#e8a090" stroke-width="3" fill="none"/>
+<path d="M200 146 Q196 160 202 162" stroke="#6a3c24" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<path d="M188 174 Q200 178 212 174" stroke="#5a2a20" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g class="smile"><path d="M186 171 Q200 190 214 171Z" fill="#b5403a"/><path d="M190 173 Q200 178 210 173Z" fill="#fff"/></g>
+</g>
+</g>
+<g class="wave"><path d="M270 290 Q285 270 292 255" stroke="#141414" stroke-width="18" stroke-linecap="round" fill="none"/><circle cx="292" cy="246" r="13" fill="#7b4a30"/></g></g></g><g>
+<rect x="84" y="164" width="172" height="108" rx="9" fill="#d5d9e0" stroke="#7d838d" stroke-width="3"/>
+<rect x="92" y="172" width="156" height="92" rx="5" fill="none" stroke="#b9bec8" stroke-width="1.5"/>
+<circle cx="170" cy="214" r="13" fill="#7a5af8"/><path d="M164 214 L168 210 M164 214 L168 218 M176 214 L172 210 M176 214 L172 218" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+<path d="M76 272 L264 272 L270 281 Q270 284 266 284 L74 284 Q70 284 70 281Z" fill="#aab0bb" stroke="#7d838d" stroke-width="3" stroke-linejoin="round"/>
+</g><g class="hi"><rect x="352" y="30" width="86" height="46" rx="14" fill="#fff" stroke="#7a5af8" stroke-width="3"/><path d="M360 76 L346 100 L378 76Z" fill="#fff" stroke="#7a5af8" stroke-width="3" stroke-linejoin="round"/><rect x="358" y="74" width="22" height="5" fill="#fff"/><text x="395" y="62" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="26" fill="#7a5af8">hi!</text></g></svg>
