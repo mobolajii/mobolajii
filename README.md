@@ -7,7 +7,7 @@
 <h1 align='center'>Hey, I'm Moge</h1>
 
 
-<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-coding-woman-v4.svg?v=4' width='400' alt='Animated woman coding on her laptop, looking up to say hi' /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/2-coding-woman-v6.svg?v=6' width='400' alt='Animated woman coding behind her laptop, then leaning out to say hi' /></p>
 
 
 <p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
@@ -90,3 +90,35 @@ Writing about software engineering, the thinking behind the code, and the system
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+
+### Testing & DevOps
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+### AI
+![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mastra](https://img.shields.io/badge/-Mastra-6B4EFF?style=for-the-badge)
+![AG-UI](https://img.shields.io/badge/-AG--UI-5B6CFF?style=for-the-badge)
+![A2UI](https://img.shields.io/badge/-A2UI-00897B?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/-Agentic%20Systems-412991?style=for-the-badge)
+![SSE](https://img.shields.io/badge/-SSE-2C3E50?style=for-the-badge)
+![Human-in-the-loop](https://img.shields.io/badge/-Human--in--the--loop-795548?style=for-the-badge)
+
+### Architecture
+![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-00897B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/-Microservices-1976D2?style=for-the-badge)
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobolajii&show_icons=true&theme=radical)
+
+
+## Connect with me
+#### Feel free to connect with me on LinkedIn or Medium!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogemola-okulaja-93b172294/?trk=opento_sprofile_details)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
