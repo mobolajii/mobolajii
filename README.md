@@ -25,7 +25,7 @@
 
 
 - M.Sc. Computer Science, Humboldt University Berlin
-- B.Sc. Computer Science and Business (Information Systems), University of Trier
+- B.Sc. Information Systems, University of Trier
 
 
 ## ✍🏿 Writing
