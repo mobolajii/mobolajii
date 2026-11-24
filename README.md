@@ -1,7 +1,8 @@
 ## 👋 Hello World
 
-<p>🙋🏿‍♀️ I'm Moge (she/her).</p>
-<p>👩🏿‍🎓 I'm an Associate Software Engineer at commercetools in Berlin. I build event-driven backend services and APIs for high-volume e-commerce, mostly with Java, Python and TypeScript.</p>
+<p>Hey, I'm Moge (she/her)!</p>
+<p>I'm a Software Engineer who loves building things that scale. I specialise in developing event-driven backend services and APIs for high-volume e-commerce systems, primarily using Java, Python and TypeScript.</p>
+<p>I enjoy solving complex engineering problems, designing reliable systems, and turning ideas into solutions that make a real impact.</p>
 
 ## 🔨 What I work on
 
