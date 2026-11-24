@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,graphql,spring,react,aws,gcp,postgres,mysql,docker,git,github,githubactions,kafka" alt="Tech I work with" /></p>
 
-<h1 align="center">Hey, I'm Moge <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3ff/512.gif" width="40" alt="Waving" /></h1>
+<h1 align='center'>Hey, I'm Moge</h1>
+
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/1-coding-woman.svg' width='220' alt='Animated woman coding on her laptop, looking up to say hi' /></p>
 
 <p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
 
