@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="150" viewBox="0 0 160 150">
+  <title>Woman coding on her laptop, looking up to say hi</title>
+  <rect width="160" height="150" rx="14" fill="#0d1117"/>
+  <!-- hair back -->
+  <circle cx="80" cy="30" r="13" fill="#2b1a12"/>
+  <ellipse cx="80" cy="58" rx="30" ry="31" fill="#2b1a12"/>
+  <!-- body -->
+  <path d="M38 118 Q40 92 80 90 Q120 92 122 118 Z" fill="#7c5cff"/>
+  <rect x="72" y="80" width="16" height="14" rx="5" fill="#8d5524"/>
+  <!-- head group: bobs and turns -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite"
+      values="0 3;0 3;0 3;0 0;0 0;0 0;0 3" keyTimes="0;0.5;0.58;0.66;0.9;0.95;1"/>
+    <ellipse cx="80" cy="56" rx="23" ry="26" fill="#8d5524"/>
+    <!-- fringe -->
+    <path d="M56 50 Q58 26 82 28 Q104 30 104 50 Q92 38 74 40 Q64 42 56 50 Z" fill="#2b1a12"/>
+    <!-- eyes whites -->
+    <ellipse cx="71" cy="56" rx="5" ry="5.5" fill="#fff"/>
+    <ellipse cx="89" cy="56" rx="5" ry="5.5" fill="#fff"/>
+    <!-- pupils: look down at screen, then at viewer -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite"
+        values="-1.5 2.5;-1.5 2.5;-1.5 2.5;0 0;0 0;0 0;-1.5 2.5" keyTimes="0;0.5;0.58;0.66;0.9;0.95;1"/>
+      <circle cx="71" cy="56" r="2.6" fill="#1a1a1a"/>
+      <circle cx="89" cy="56" r="2.6" fill="#1a1a1a"/>
+    </g>
+    <!-- blink -->
+    <g fill="#8d5524">
+      <rect x="65" y="49" width="12" height="0" id="l"><animate attributeName="height" values="0;0;12;0;0" keyTimes="0;0.3;0.31;0.33;1" dur="3s" repeatCount="indefinite"/></rect>
+      <rect x="83" y="49" width="12" height="0"><animate attributeName="height" values="0;0;12;0;0" keyTimes="0;0.3;0.31;0.33;1" dur="3s" repeatCount="indefinite"/></rect>
+    </g>
+    <!-- glasses -->
+    <g fill="none" stroke="#222" stroke-width="1.6">
+      <circle cx="71" cy="56" r="8"/><circle cx="89" cy="56" r="8"/><path d="M79 56 L81 56"/>
+    </g>
+    <!-- mouth: neutral then smile -->
+    <path d="M74 71 Q80 72 86 71" stroke="#4a2511" stroke-width="2" fill="none" stroke-linecap="round">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M74 71 Q80 72 86 71;M74 71 Q80 72 86 71;M74 71 Q80 72 86 71;M72 69 Q80 79 88 69;M72 69 Q80 79 88 69;M72 69 Q80 79 88 69;M74 71 Q80 72 86 71"
+        keyTimes="0;0.5;0.58;0.66;0.9;0.95;1"/>
+    </path>
+    <!-- cheeks when smiling -->
+    <g fill="#e07a6a" opacity="0">
+      <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;0.5;0.5;0;0" keyTimes="0;0.5;0.58;0.66;0.9;0.95;1"/>
+      <circle cx="64" cy="67" r="3.5"/><circle cx="96" cy="67" r="3.5"/>
+    </g>
+  </g>
+  <!-- laptop (back of lid faces us) -->
+  <rect x="42" y="98" width="76" height="38" rx="4" fill="#9aa4b2"/>
+  <rect x="44" y="100" width="72" height="34" rx="3" fill="#c7ced8"/>
+  <circle cx="80" cy="117" r="4.5" fill="#9aa4b2"/>
+  <rect x="34" y="136" width="92" height="5" rx="2.5" fill="#6b7480"/>
+  <!-- typing hands -->
+  <ellipse cx="62" cy="139" rx="7" ry="5" fill="#8d5524">
+    <animate attributeName="cy" values="139;136;139;138;139" dur="0.4s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="98" cy="139" rx="7" ry="5" fill="#8d5524">
+    <animate attributeName="cy" values="138;139;136;139;138" dur="0.35s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- waving hand during hi -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;1;1;0;0" keyTimes="0;0.5;0.62;0.68;0.9;0.95;1"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-18 124 112;18 124 112;-18 124 112" dur="0.7s" repeatCount="indefinite"/>
+      <rect x="120" y="82" width="8" height="30" rx="4" fill="#8d5524"/>
+      <circle cx="124" cy="78" r="9" fill="#8d5524"/>
+    </g>
+  </g>
+  <!-- speech bubble -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;1;1;0;0" keyTimes="0;0.5;0.64;0.68;0.9;0.95;1"/>
+    <rect x="8" y="14" width="36" height="24" rx="8" fill="#fff"/>
+    <path d="M36 37 L44 46 L46 36 Z" fill="#fff"/>
+    <text x="26" y="31" font-family="Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#0d1117">hi!</text>
+  </g>
+  <!-- code lines floating while typing -->
+  <g font-family="monospace" font-size="9" fill="#58a6ff">
+    <text x="120" y="30" opacity="0">&lt;/&gt;<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="40;22" dur="2s" repeatCount="indefinite"/></text>
+    <text x="10" y="60" opacity="0" fill="#3fb950">{ }<animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="70;44" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
