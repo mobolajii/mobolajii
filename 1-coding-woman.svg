@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300">
 <style>
 .head{transform-origin:200px 190px;animation:head 6s infinite ease-in-out}
 @keyframes head{0%,50%{transform:rotate(0)}58%,84%{transform:rotate(-4deg)}94%,100%{transform:rotate(0)}}
@@ -17,9 +17,9 @@
 .sym{animation:fl 3s infinite ease-in-out}
 @keyframes fl{0%{opacity:0;transform:translateY(10px)}50%{opacity:1}100%{opacity:0;transform:translateY(-14px)}}
 </style>
-<rect width="400" height="300" rx="16" fill="#f4eee8"/>
+<rect width="480" height="300" rx="16" fill="#f4eee8"/>
 <g font-family="monospace" font-size="9.5">
-<rect x="10" y="34" width="124" height="132" rx="9" fill="#1e1e2e"/>
+<rect x="10" y="34" width="164" height="140" rx="9" fill="#1e1e2e"/>
 <circle cx="22" cy="46" r="3" fill="#ff5f57"/><circle cx="32" cy="46" r="3" fill="#febc2e"/><circle cx="42" cy="46" r="3" fill="#28c840"/>
 <text x="18" y="68" fill="#c792ea">function <tspan fill="#82aaff">hello</tspan><tspan fill="#d4d4d4">() {</tspan></text>
 <text x="26" y="84" fill="#d4d4d4"><tspan fill="#82aaff">fetch</tspan>(data);</text>
@@ -29,6 +29,7 @@
 <text x="18" y="150" fill="#546e7a">// ship it</text>
 <rect x="46" y="140" width="5" height="11" fill="#7a5af8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
+<g transform="translate(88,0)">
 <!-- body -->
 <path d="M95 300 Q100 232 150 222 L250 222 Q300 232 305 300Z" fill="#141414"/>
 <path d="M110 300 Q115 238 158 226 L200 262 L242 226 Q285 238 290 300Z" fill="#c8ab8b"/>
@@ -56,12 +57,16 @@
 </g>
 </g>
 <!-- laptop -->
-<path d="M122 300 L138 256 Q140 250 148 250 L252 250 Q260 250 262 256 L278 300Z" fill="#9aa0a8"/>
-<circle cx="200" cy="276" r="6" fill="#d9dde2"/>
+<path d="M126 296 L140 252 Q142 246 150 246 L250 246 Q258 246 260 252 L274 296Z" fill="#d5d9e0" stroke="#7d838d" stroke-width="3" stroke-linejoin="round"/>
+<path d="M114 300 L286 300 L286 292 Q286 288 280 288 L120 288 Q114 288 114 292Z" fill="#a9afb9" stroke="#7d838d" stroke-width="3"/>
+<path d="M188 270 q12 -14 24 0 q-12 14 -24 0z" fill="#7d838d"/>
 <!-- hands typing -->
-<g class="typing"><g class="lh"><ellipse cx="170" cy="254" rx="14" ry="8" fill="#7b4a30"/></g><g class="rh"><ellipse cx="230" cy="254" rx="14" ry="8" fill="#7b4a30"/></g></g>
+<g class="typing"><g class="lh"><ellipse cx="170" cy="248" rx="14" ry="8" fill="#7b4a30"/></g><g class="rh"><ellipse cx="230" cy="248" rx="14" ry="8" fill="#7b4a30"/></g></g>
 <!-- waving hand -->
 <g class="wave"><path d="M270 290 Q285 270 292 255" stroke="#141414" stroke-width="18" stroke-linecap="round" fill="none"/><circle cx="292" cy="246" r="13" fill="#7b4a30"/></g>
+</g>
 <!-- bubble -->
+<g transform="translate(96,-14)">
 <g class="hi"><rect x="268" y="60" width="86" height="46" rx="14" fill="#fff" stroke="#7a5af8" stroke-width="3"/><path d="M280 106 L270 124 L296 106Z" fill="#fff" stroke="#7a5af8" stroke-width="3" stroke-linejoin="round"/><rect x="276" y="104" width="22" height="5" fill="#fff"/><text x="311" y="91" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="26" fill="#7a5af8">hi!</text></g>
+</g>
 </svg>
