@@ -7,7 +7,7 @@
 <h1 align='center'>Hey, I'm Moge</h1>
 
 
-<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/2-coding-woman-v6.svg?v=6' width='400' alt='Animated woman coding behind her laptop, then leaning out to say hi' /></p>
+<p align='center'><img src='https://raw.githubusercontent.com/mobolajii/mobolajii/main/2-coding-woman-v7.svg?v=7' width='400' alt='Animated woman coding behind her MacBook, then leaning her head out to say hi' /></p>
 
 
 <p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
