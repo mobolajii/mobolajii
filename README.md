@@ -2,7 +2,7 @@
 
 <p>🙋🏿‍♀️ I'm Moge.</p>
 <p>😄 My pronouns are she/her.</p>
-<p>👩🏿‍🎓 I am a Software Engineer sharing her journey and learnings in tech.</p>
+<p>👩🏿‍🎓 I am an Associate Software Engineer at commercetools in Berlin, building event-driven backend services and APIs for high-volume e-commerce: orders, promotions and AI agents.</p>
 <p>👩🏿‍💻 I hold a Bachelor's degree in Information Systems from the University of Trier and a Master's degree in Computer Science from the Humboldt University Berlin</p>
 <p>✍🏿 I write on Medium about software engineering and what I learn along the way: https://medium.com/@amoge</p>
 
@@ -21,6 +21,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Data Science & Analytics
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -59,8 +66,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobolajii&layout=compact&card_width=450&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=2bbc8a&border_color=30363d)
 
 ## Connect with me
-#### Feel free to connect with me on LinkedIn!
+#### Feel free to connect with me on LinkedIn or Medium!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogemola-okulaja-93b172294/?trk=opento_sprofile_details)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amoge)
 
 
 
