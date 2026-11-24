@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+<style>
+.code{animation:float 3s infinite ease-in-out;font-family:monospace;font-size:10.5px;font-weight:bold}
+@keyframes float{0%{opacity:0;transform:translateY(8px)}50%{opacity:1}100%{opacity:0;transform:translateY(-12px)}}
+.typing{transform-origin:240px 250px;animation:type 6s infinite ease-in-out}
+@keyframes type{0%,45%{transform:translateY(0)}10%,25%,38%{transform:translateY(2px)}50%,88%{transform:translateY(0)}100%{transform:translateY(0)}}
+.head{transform-origin:240px 177px;animation:peek 6s infinite ease-in-out}
+@keyframes peek{0%,45%{transform:translate(0,0) rotate(0)}52%,86%{transform:translate(20px,-2px) rotate(6deg)}100%{transform:translate(0,0) rotate(0)}}
+.wavearm{transform-origin:304px 251px;animation:wave 6s infinite ease-in-out}
+@keyframes wave{0%,50%{opacity:0;transform:rotate(0)}54%{opacity:1;transform:rotate(-12deg)}62%{transform:rotate(20deg)}70%{transform:rotate(-15deg)}78%,86%{opacity:1;transform:rotate(8deg)}90%,100%{opacity:0;transform:rotate(0)}}
+.wavehand{transform-origin:326px 213px;animation:wave 6s infinite ease-in-out}
+.hello{opacity:0;animation:hello 6s infinite ease-in-out}
+@keyframes hello{0%,52%{opacity:0}58%,84%{opacity:1}90%,100%{opacity:0}}
+.keyhand{animation:tap .35s infinite alternate ease-in-out, typehands 6s infinite ease-in-out}
+@keyframes typehands{0%,46%{opacity:1}52%,86%{opacity:0}92%,100%{opacity:1}}
+@keyframes tap{from{transform:translateY(0)}to{transform:translateY(2px)}}
+</style>
+<g class="code" font-size="10.5" font-weight="bold">
+<text style="animation-delay:0s" x="22" y="40" fill="#89ddff">pytest -q</text><text style="animation-delay:.8s" x="18" y="98" fill="#c3e88d">await db.query()</text><text style="animation-delay:1.3s" x="20" y="150" fill="#f78c6c">kafka.send(event)</text><text style="animation-delay:1.9s" x="350" y="46" fill="#82aaff">npm run build</text><text style="animation-delay:.4s" x="368" y="104" fill="#ffcb6b">orders&#123;id&#125;</text><text style="animation-delay:1.5s" x="356" y="158" fill="#c792ea">git commit -m feat</text><text style="animation-delay:2.2s" x="359" y="204" fill="#c3e88d">@Service</text><text style="animation-delay:.2s" x="24" y="210" fill="#82aaff">tests: pass</text>
+</g>
+<!-- desk -->
+<path d="M28 321 H452 L438 336 H42 Z" fill="#98724e" stroke="#6f533a" stroke-width="3"/><path d="M68 336 L58 359 M412 336 L422 359" stroke="#6f533a" stroke-width="8" stroke-linecap="round"/>
+<!-- shoulders and torso -->
+<path d="M127 314 Q132 245 177 225 Q205 213 240 222 Q275 213 303 225 Q348 245 353 314Z" fill="#202027"/>
+<path d="M146 314 Q151 251 184 235 L240 270 L296 235 Q329 251 334 314Z" fill="#c8ab8b"/>
+<path d="M217 225 L240 270 L263 225Z" fill="#26262d"/>
+<!-- neck --> <rect x="221" y="190" width="38" height="45" rx="8" fill="#7b4a30"/>
+<!-- head -->
+<g class="head">
+<g fill="#0c0c0e"><circle cx="240" cy="132" r="61"/><circle cx="191" cy="151" r="31"/><circle cx="289" cy="151" r="31"/><circle cx="179" cy="119" r="26"/><circle cx="301" cy="119" r="26"/><circle cx="208" cy="85" r="28"/><circle cx="272" cy="85" r="28"/><circle cx="240" cy="75" r="30"/><circle cx="174" cy="175" r="22"/><circle cx="306" cy="175" r="22"/></g>
+<ellipse cx="240" cy="148" rx="42" ry="50" fill="#8a5738"/><path d="M198 118 Q240 84 282 118 Q272 96 240 92 Q208 96 198 118Z" fill="#0c0c0e"/>
+<path d="M215 126 Q224 121 233 126M247 126 Q256 121 265 126" stroke="#0c0c0e" stroke-width="3" fill="none" stroke-linecap="round"/>
+<ellipse cx="224" cy="141" rx="8" ry="6" fill="#fff"/><ellipse cx="256" cy="141" rx="8" ry="6" fill="#fff"/><circle cx="224" cy="141" r="4" fill="#1a0f0a"/><circle cx="256" cy="141" r="4" fill="#1a0f0a"/>
+<g fill="#bfe3ff" fill-opacity=".18" stroke="#e8a090" stroke-width="3"><rect x="207" y="130" width="34" height="23" rx="9"/><rect x="239" y="130" width="34" height="23" rx="9"/></g><path d="M241 138 Q240 135 239 138M207 136 L198 132M273 136 L282 132" stroke="#e8a090" stroke-width="3" fill="none"/>
+<path d="M240 146 Q236 160 242 162" stroke="#6a3c24" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M228 174 Q240 178 252 174" stroke="#5a2a20" stroke-width="3" fill="none" stroke-linecap="round"/>
+</g>
+<!-- forearms descend from the shoulders behind the laptop -->
+<g fill="none" stroke="#c8ab8b" stroke-width="16" stroke-linecap="round"><path d="M164 244 Q173 261 181 286"/><path d="M316 244 Q307 261 299 286"/></g>
+<!-- laptop screen, lower than face so typing pose is visible -->
+<rect x="166" y="224" width="148" height="73" rx="8" fill="#cfd3da" stroke="#818792" stroke-width="3"/><rect x="174" y="232" width="132" height="57" rx="4" fill="#30343d"/><g transform="translate(240 260) scale(.6)"><path d="M0 -9 C-6 -14 -15 -9 -13 1 C-12 9 -6 15 -2 13 C0 12 1 12 3 13 C8 15 13 8 14 3 C8 1 8 -7 14 -9 C10 -13 4 -13 0 -9Z" fill="#f4f5f7"/><path d="M1 -10 C0 -16 4 -19 8 -19 C8 -14 5 -11 1 -10Z" fill="#f4f5f7"/></g>
+<!-- laptop base and keyboard -->
+<path d="M158 297 H322 L337 310 Q338 314 332 315 H148 Q142 314 143 310Z" fill="#aab0bb" stroke="#7d838d" stroke-width="3" stroke-linejoin="round"/>
+<g fill="#383b44"><rect x="169" y="300" width="12" height="4" rx="1"/><rect x="185" y="300" width="12" height="4" rx="1"/><rect x="201" y="300" width="12" height="4" rx="1"/><rect x="217" y="300" width="12" height="4" rx="1"/><rect x="233" y="300" width="12" height="4" rx="1"/><rect x="249" y="300" width="12" height="4" rx="1"/><rect x="265" y="300" width="12" height="4" rx="1"/><rect x="281" y="300" width="12" height="4" rx="1"/><rect x="297" y="300" width="12" height="4" rx="1"/><rect x="177" y="307" width="15" height="4" rx="1"/><rect x="196" y="307" width="15" height="4" rx="1"/><rect x="215" y="307" width="15" height="4" rx="1"/><rect x="234" y="307" width="15" height="4" rx="1"/><rect x="253" y="307" width="15" height="4" rx="1"/><rect x="272" y="307" width="15" height="4" rx="1"/><rect x="291" y="307" width="15" height="4" rx="1"/></g>
+<!-- typing arms/hands, bob at keyboard -->
+<!-- forearms sit behind the screen so the screen stays clear -->
+<g fill="none" stroke="#c8ab8b" stroke-width="16" stroke-linecap="round"><path d="M164 244 Q173 261 181 286"/><path d="M316 244 Q307 261 299 286"/></g>
+<g class="keyhand" fill="#8a5738"><ellipse cx="190" cy="301" rx="13" ry="6"/><ellipse cx="290" cy="301" rx="13" ry="6"/><path d="M181 301 L179 297 M188 300 L187 295 M195 300 L197 296 M282 300 L281 296 M289 300 L290 295 M297 301 L300 297" stroke="#8a5738" stroke-width="3" stroke-linecap="round"/></g>
+<!-- waving arm appears after typing; laptop/keyboard remain fixed -->
+<g class="wavearm" style="animation-delay:0s"><path d="M307 242 Q330 225 336 190" fill="none" stroke="#c8ab8b" stroke-width="14" stroke-linecap="round"/><g class="wavehand"><circle cx="337" cy="184" r="10" fill="#8a5738"/><path d="M332 178 L328 168 M337 175 L337 164 M343 177 L349 168" stroke="#8a5738" stroke-width="4" stroke-linecap="round"/></g></g>
+<g class="hello"><rect x="342" y="214" width="72" height="40" rx="13" fill="#fff" stroke="#7a5af8" stroke-width="3"/><path d="M353 252 L343 270 L370 252Z" fill="#fff" stroke="#7a5af8" stroke-width="3" stroke-linejoin="round"/><text x="378" y="242" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="22" fill="#7a5af8">hi!</text></g>
+</svg>
