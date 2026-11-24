@@ -1,7 +1,9 @@
-## 👋 Hello World
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:00897B&height=140&section=header&text=Moge&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner" /></p>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,graphql,spring,react,aws,gcp,postgres,mysql,docker,git,github,githubactions,kafka" alt="Tech I work with" /></p>
 
-<p>Hey, I'm Moge</p>
+<h1 align="center">Hey, I'm Moge <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f483_1f3ff/512.gif" width="40" alt="Waving" /></h1>
+
 <p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
 
 
