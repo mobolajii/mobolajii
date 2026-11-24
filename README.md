@@ -1,18 +1,20 @@
 ## 👋 Hello World
 
 
-<p>Hey, I'm Moge (she/her)!</p>
-<p>I'm a Software Engineer who loves building things that scale. I specialise in developing event-driven backend services and APIs for high-volume e-commerce systems, primarily using Java, Python and TypeScript.</p>
-<p>I enjoy solving complex engineering problems, designing reliable systems, and turning ideas into solutions that make a real impact.</p>
+<p>Hey, I'm Moge</p>
+<p>I'm a Software Engineer who enjoys building scalable backend systems and APIs, particularly in high-volume e-commerce environments. I mainly work with Java, Python and TypeScript. Always curious about how things work, how they can work better, and what I can build next.</p>
 
 
 ## 🔨 What I work on
 
 
-- AI agents that turn natural-language requests into executable discount rules for promotions
-- Streaming agent backends (SSE, suspend/resume, human-in-the-loop)
-- Order management features: order lifecycle, recurring orders, multi-address shipping
-- GraphQL APIs in a distributed microservices architecture, on AWS and GCP
+- AI-powered applications and agentic workflows
+- Event-driven systems and streaming backends
+- E-commerce, order management and promotion systems
+- APIs, GraphQL and distributed microservices
+- Cloud-native applications on AWS and GCP
+
+**Tech I work with:** Java · Python · TypeScript · GraphQL · AWS · GCP
 
 
 ## 🎓 Education
@@ -69,6 +71,16 @@ I write on Medium about software engineering and what I learn along the way: [me
 
 ### AI
 ![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mastra](https://img.shields.io/badge/-Mastra-6B4EFF?style=for-the-badge)
+![AG-UI](https://img.shields.io/badge/-AG--UI-5B6CFF?style=for-the-badge)
+![A2UI](https://img.shields.io/badge/-A2UI-00897B?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/-Agentic%20Systems-412991?style=for-the-badge)
+![SSE](https://img.shields.io/badge/-SSE-2C3E50?style=for-the-badge)
+![Human-in-the-loop](https://img.shields.io/badge/-Human--in--the--loop-795548?style=for-the-badge)
+
+### Architecture
+![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-00897B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/-Microservices-1976D2?style=for-the-badge)
 
 
 ## 📊 GitHub Stats
